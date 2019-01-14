@@ -1,7 +1,7 @@
 def square_array(array)
 
- array.each do |puns| 
-   puts puns * puns
+ array.each do |i| 
+   puts i**2
   
 end
 end
